@@ -64,6 +64,7 @@ From a technical and developmental standpoint, scaling a VLEO constellation from
 - **Adaptive Optical-to-RF Continuity:** High-throughput optical/laser communications support high-capacity transfer under favorable conditions, while controlled RF fallback preserves resilient connectivity when atmospheric or pointing conditions shift—always bounded by non-interference and regulatory rules.
 - **Phased Development & Verification Lifecycle:** Development progresses systematically from architectural modeling and software-in-the-loop/hardware-in-the-loop (**SIL/HIL**) simulation to staged constellation scaling, auditability, and formal readiness reviews before operational deployment.
 
+<img width="690" height="362" alt="Screenshot_٢٠٢٦١١٢١-٠٣٥٣٥٨_Gallery" src="https://github.com/user-attachments/assets/51ec90f3-0cb3-451e-b932-5ef4d9410384" />
 ---
 
 ### Commercial & Financial Perspective (Illustrative Context)
