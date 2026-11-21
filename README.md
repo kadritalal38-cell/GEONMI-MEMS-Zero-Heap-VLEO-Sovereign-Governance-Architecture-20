@@ -11,6 +11,7 @@
 
 </div>
 
+<img width="1783" height="1130" alt="IMG-20261121-WA6208" src="https://github.com/user-attachments/assets/b77d1e73-b851-4252-a444-e0c6765b4f42" />
 ### Redefining Satellite Governance at the Edge of Space
 
 Operating constellations in Very Low Earth Orbit (**250–350 km**) unlocks unmatched low-latency communications and ultra-sharp Earth observation, yet it pushes spacecraft to their absolute physical limits. At these altitudes, intense atmospheric drag, rapid thermal shifts, and fleeting ground contact windows quickly overwhelm traditional, human-in-the-loop ground control.
