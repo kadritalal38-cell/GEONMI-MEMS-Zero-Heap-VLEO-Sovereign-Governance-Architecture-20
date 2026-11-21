@@ -69,6 +69,7 @@ From a technical and developmental standpoint, scaling a VLEO constellation from
 
 ### Commercial & Financial Perspective (Illustrative Context)
 
+<img width="1756" height="1192" alt="IMG-20261121-WA6627" src="https://github.com/user-attachments/assets/fae7138d-2f65-4768-864c-c4a6b001e7b0" />
 From a commercial and operational scalability standpoint, autonomous governance and resilient link management in VLEO aim to support scalable civilian and commercial applications—such as low-latency data relay, environmental and earth observation support, infrastructure monitoring, and resilient communications—while helping manage operational overhead as fleet size grows.
 
 Potential commercial value drivers include:
