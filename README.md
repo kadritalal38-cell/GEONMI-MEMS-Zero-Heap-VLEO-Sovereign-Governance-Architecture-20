@@ -67,8 +67,8 @@ Designed from the ground up for responsible civilian and commercial deployment, 
 - **Orbital Sustainability & Debris Mitigation:** Aligns with **UN COPUOS** long-term sustainability guidelines and **ISO 24113**, ensuring active conjunction awareness and clean end-of-life de-orbiting in low altitudes.
 - **Spectrum & Non-Interference Discipline:** Complies with **ITU Radio Regulations (ITU-R)** to prevent harmful interference across optical and RF bands.
 - **Aerospace Assurance Frameworks:** Shaped by **ECSS**, **ISO 9001**, and **CCSDS** interoperability standards, supported by rigorous Software-in-the-Loop and Hardware-in-the-Loop (**SIL/HIL**) verification lifecycles.
-#
-<img width="690" height="362" alt="Screenshot_٢٠٢٦١١٢١-٠٣٥٣٥٨_Gallery" src="https://github.com/user-attachments/assets/53a40c10-b942-41ec-a1d4-ed28cc3e23bb" />
+
+#<img width="690" height="362" alt="Screenshot_٢٠٢٦١١٢١-٠٣٥٣٥٨_Gallery" src="https://github.com/user-attachments/assets/53a40c10-b942-41ec-a1d4-ed28cc3e23bb" />
 
 ### Fleet Economics & Commercial Scalability
 
