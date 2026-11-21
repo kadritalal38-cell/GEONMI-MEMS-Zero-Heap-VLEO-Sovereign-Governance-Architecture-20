@@ -1,7 +1,20 @@
 # GEONMI-MEMS Zero-Heap VLEO
 ## Sovereign Governance & Mission Architecture for Civilian and Commercial Very Low Earth Orbit Constellations
 
-`#GEONMI-MEMS` `#ZeroHeapVLEO` `#SpaceGovernance` `#AutonomousConstellations` `#OpticalRFComms` `#CivilianSpace` `#CommercialSpace` `#DeterministicSystems`
+<div align="center">
+
+![Version](https://shields.io)
+![Architecture](https://shields.io)
+![Orbit](https://shields.io)
+![Comms](https://shields.io)
+
+![Scope](https://shields.io)
+![Compliance](https://shields.io_|_ISO_24113_|_CCSDS-D97706?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Access](https://shields.io)
+![Copyright](https://shields.io_©_2026-111827?style=for-the-badge&logo=shield&logoColor=white)
+
+</div>
+
 
 ---
 
