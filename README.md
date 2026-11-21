@@ -92,5 +92,5 @@ Potential commercial value drivers include:
 
 - **Private Repository (NDA) & Official Contact:**  
   The core technical and governance repository is **private and closed**, accessible strictly under an executed **Non-Disclosure Agreement (NDA)** and authorized review. For legitimate technical and commercial inquiries or NDA requests, contact:
-  - `kadritalal38@gmail.com`
-  - `talal.works38@gmail.com`
+kadritalal38@gmail.com 
+talal.works38@gmail.com 
